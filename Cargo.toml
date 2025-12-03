@@ -1,11 +1,13 @@
 [package]
 name = "boardgame"
-version = "0.0.0"
+version = "0.0.1"
 edition = "2024"
 description = "A collection of board games from around the world."
 license = "MIT"
 repository = "https://github.com/samoheen/boardgame"
 authors = ["Sammy O'Heen"]
+readme = "README.md"
+documentation = "https://docs.rs/boardgame/latest/boardgame/"
 categories = ["game-development", "games"]
 keywords = ["boardgame"]
 
