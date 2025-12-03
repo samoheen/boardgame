@@ -2,5 +2,7 @@
 name = "boardgame"
 version = "0.0.0"
 edition = "2024"
+description = "A collection of board games from around the world."
+license = "MIT"
 
 [dependencies]
